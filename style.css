@@ -1,0 +1,55 @@
+.class{ 
+    color: aqua;
+
+}
+
+#h1{
+    color: rgb(10, 9, 1);
+}
+
+*{
+    background-color: rgb(94, 109, 229);
+}
+
+div{
+    background-color: azure;
+}
+*{
+    text-align: center;
+    text-decoration: line-through ;
+    font-weight: bolder;
+}
+body{
+    background-image: url(https://media.tenor.com/9Hlh1EvqSvUAAAAM/cristiano-ronaldo-ronaldo.gif);
+    background-repeat: no-repeat;
+    background-position: 10px;
+    background-attachment: fixed;
+ }   
+#div1{
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    margin: 10px;
+    background-color: indigo;
+    border: 1px solid black;
+    border-radius: 50%;
+
+}
+#div2{
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    margin: 10px;
+    background-color: rgb(80, 130, 0);
+    border: 1px solid black;
+    border-radius: 50%;
+}
+#div3{
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    margin: 10px;
+    background-color: indigo;
+    border: 1px solid rgb(74, 196, 129);
+    border-radius: 50%;
+}
